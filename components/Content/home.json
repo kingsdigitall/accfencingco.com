@@ -2,7 +2,7 @@
   "metaTitle": "Bothell Fence Rentals | Temporary Fence Panels & Barriers",
   "metaDescription": "Rent secure temporary fencing in Bothell, WA for events, job sites, or emergencies. Affordable rates and fast setup. Call now! (425) 285-8440",
   "bannerQuote": "",
-  "bannerImage": "banner.jpg",
+  "bannerImage": "https://ik.imagekit.io/serviceproviders/accfencingco.com/banner.jpg",
   "h1Banner": "Affordable Temporary Fence Rentals in Bothell, WA 98012 Near Me",
   "p1Banner": "Secure, Fast & Local Fencing Solutions Delivered When You Need Them!",
   "h2": "Protect Your Space with Flexible Fence Rentals in Bothell",
@@ -46,7 +46,303 @@
   "h3": "About Us – Born & Built in Bothell",
   "p3": "Bothell Fencing Rental Expert is a family-owned company that’s proud to serve the neighborhoods, builders, and event organizers of Bothell and surrounding areas. We’re not part of a big national chain—we live here, work here, and care about our community.<br/><br/>Every fence we install is backed by real experience and real people. Whether it’s a quick rental for a food truck rally or long-term coverage for a new housing development, we handle it with the same care and attention. Our customers trust us because we show up when we say we will, offer fair pricing, and treat every project with respect.",
   "h3Image": "https://ik.imagekit.io/serviceproviders/accfencingco.com/Temporary-Fence-Canada-Construction-Site-Fencing-Construction-Safety-Fencing.jpg?updatedAt=1744015113472",
-  "faq": [],
-  "testimonials": [],
-  "mapLink": "https://maps.google.com/maps?q=Bothell+WA&t=&z=12&ie=UTF8&iwloc=&output=embed"
+
+  "mapLink": "https://maps.google.com/maps?q=Bothell+WA&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "affordableWidget": {
+    "title": "A Better Way to Rent Temporary Fencing",
+    "description": "We've taken the hassle out of fence rentals in Bothell. Here's how we make it easy, clear, and convenient for you:",
+    "ctaText": "Call Now",
+    "cards": [
+      {
+        "title": "Simple Booking Process",
+        "description": "No long forms. No runaround. One quick call and we'll get your fencing scheduled in minutes."
+      },
+      {
+        "title": "Licensed & Insured Service",
+        "description": "We follow local regulations and safety guidelines to ensure your fencing is installed properly."
+      },
+      {
+        "title": "Reliable Customer Support", 
+        "description": "From first inquiry to final removal, our team is ready to answer your questions and help you out."
+      }
+    ]
+  },
+  "processWidget": {
+  "title": "Our Process – Simple & Straightforward",
+  "description": "",
+  "steps": [
+    {
+      "title": "Step 1: Request Your Quote",
+      "description": "Tell us your site details, length, and timeline—we’ll send a custom estimate with no hidden fees."
+    },
+    {
+      "title": "Step 2: Confirm Delivery",
+      "description": "Pick a delivery date and time that works for you. We’ll prep your materials and notify you ahead of arrival."
+    },
+    {
+      "title": "Step 3: Setup by Experts",
+      "description": "Our trained team installs your fencing safely, securely, and exactly where you need it."
+    },
+    {
+      "title": "Step 4: Quick Removal",
+      "description": "Once your rental ends, we’ll swing by, tear down, and clean up—no mess, no delay, no hassle."
+    }
+  ]
+}
+,
+  "hourCtaWidget": {
+    "title": "Need a Fence Fast? Call Now for a Free Quote!"
+},
+  "faq": [
+  {
+    "FAQ": "What types of fences do you offer for rental in [location]?",
+    "Answer": "We offer temporary chain link fences, barricades, privacy screens, and panel fences to meet various needs in [location]."
+  },
+  {
+    "FAQ": "How much does it cost to rent a fence in [location]?",
+    "Answer": "Pricing varies based on the type of fence, rental duration, and project size. Contact us for a free quote tailored to your needs."
+  },
+  {
+    "FAQ": "Do you provide fence installation and removal in [location]?",
+    "Answer": "Yes! Our team handles full installation and removal, ensuring a hassle-free experience."
+  },
+  {
+    "FAQ": "How long can I rent a fence for?",
+    "Answer": "We offer flexible rental periods, from short-term event rentals to long-term construction site fencing."
+  },
+  {
+    "FAQ": "Do you offer emergency fence rentals in [location]?",
+    "Answer": "Yes, we provide emergency fencing solutions for urgent needs such as security breaches or disaster recovery."
+  },
+  {
+    "FAQ": "Are permits required for temporary fencing in [location]?",
+    "Answer": "Some areas may require permits for temporary fences. We can help you understand local regulations."
+  },
+  {
+    "FAQ": "Can I rent a fence for an event in [location]?",
+    "Answer": "Absolutely! We provide fencing for concerts, festivals, sporting events, and more."
+  },
+  {
+    "FAQ": "Do you offer delivery and setup in [location]?",
+    "Answer": "Yes, we deliver, install, and remove fences as part of our service."
+  },
+  {
+    "FAQ": "How soon can I get a fence installed?",
+    "Answer": "Installation timelines vary, but we strive to provide same-day or next-day service whenever possible."
+  },
+  {
+    "FAQ": "What are the benefits of renting a fence instead of buying one?",
+    "Answer": "Renting saves you money, avoids maintenance costs, and ensures you have the right fence for each project."
+  },
+  {
+    "FAQ": "Can temporary fencing be used for crowd control in [location]?",
+    "Answer": "Yes, we provide barricades and temporary fences to help manage crowds at public and private events."
+  },
+  {
+    "FAQ": "Is your fencing compliant with local regulations in [location]?",
+    "Answer": "Yes, our fences meet all safety and compliance requirements in [location]."
+  },
+  {
+    "FAQ": "Do you offer customized fencing solutions?",
+    "Answer": "Yes, we offer a variety of fence sizes and configurations to suit your specific needs."
+  },
+  {
+    "FAQ": "Can I get windscreen or privacy screens with my fence rental?",
+    "Answer": "Yes, we offer privacy screens and windscreens for additional security and discretion."
+  },
+  {
+    "FAQ": "What industries do you serve in [location]?",
+    "Answer": "We provide fencing for construction sites, events, residential needs, disaster relief, and more."
+  },
+  {
+    "FAQ": "Do you provide fencing for residential projects?",
+    "Answer": "Yes, we offer temporary fencing solutions for home renovations, pools, and property security."
+  },
+  {
+    "FAQ": "Can I extend my rental period if needed?",
+    "Answer": "Yes, rental extensions are available. Just contact us in advance to make arrangements."
+  },
+  {
+    "FAQ": "Do you provide fences for disaster relief or emergency situations?",
+    "Answer": "Yes, we offer rapid deployment fencing for emergencies such as natural disasters and security incidents."
+  },
+  {
+    "FAQ": "What payment methods do you accept?",
+    "Answer": "We accept major credit cards, checks, and other payment options for your convenience."
+  },
+  {
+    "FAQ": "How do I get a quote for fence rental in [location]?",
+    "Answer": "Simply call us or fill out our online request form, and we’ll provide a free quote quickly."
+  }
+],
+  "reviews": [
+  {
+    "Review": "Securing our construction site in [location] was a priority, and their temporary fence rental was perfect. The fence was durable, and installation was seamless. Highly recommend for any construction fencing needs!"
+  },
+  {
+    "Review": "We hosted a large event in [location] and needed crowd control barriers. The setup was hassle-free, and the fences were sturdy. Will definitely use them again!"
+  },
+  {
+    "Review": "Our renovation project in [location] required a privacy fence rental, and it worked perfectly. It provided security while keeping the site hidden. Affordable and professional service!"
+  },
+  {
+    "Review": "We needed a security fence rental in [location] on short notice. Their team installed it the same day, giving us peace of mind. Highly responsive and professional!"
+  },
+  {
+    "Review": "For our long-term project in [location], we chose their long-term fence rental. The fence was durable, and their ongoing support was a huge help."
+  },
+  {
+    "Review": "Friendly, responsive, on time, best price and a quality job to boot! All my neighbors love my new fence and A&B was less money than other quotes I got. Highly recommend!"
+  },
+  {
+    "Review": "Hosting a festival in [location] required barricade rentals, and their setup was perfect. The barriers were strong and helped manage large crowds effectively."
+  },
+  {
+    "Review": "Our construction project in [location] required temporary fencing to secure materials. The fences were high-quality and kept everything safe."
+  },
+  {
+    "Review": "After a storm, we needed an emergency fence rental in [location]. Their team responded fast and installed a durable fence to secure our property."
+  },
+  {
+    "Review": "We needed privacy fencing for an outdoor wedding in [location]. The fences created the perfect intimate setting. Setup was seamless!"
+  },
+  {
+    "Review": "Our commercial site in [location] needed security fencing to prevent unauthorized access. The fencing was strong and gave us peace of mind."
+  },
+  {
+    "Review": "We needed both a dumpster rental and fencing for our construction site in [location]. Their all-in-one service made it simple and stress-free!"
+  },
+  {
+    "Review": "Planning an outdoor concert in [location] required strong crowd control fencing. Their barriers were durable and easy to install. Great service!"
+  },
+  {
+    "Review": "Our pool installation in [location] required temporary fencing to meet safety codes. Their fencing was sturdy and met all regulations."
+  },
+  {
+    "Review": "Our commercial renovation in [location] needed construction fencing, and their service was outstanding. Professional delivery and removal made it hassle-free!"
+  },
+  {
+    "Review": "We needed temporary fencing in [location] for a last-minute project. Their team provided fast delivery and installation. Great quality and hassle-free service!"
+  },
+  {
+    "Review": "Our construction site fencing was installed quickly and was durable enough for long-term use. Highly recommend for any construction project in [location]!"
+  },
+  {
+    "Review": "Rented fences for a large outdoor event in [location]. The event fencing was sturdy, and setup was seamless. Will definitely use them again!"
+  },
+  {
+    "Review": "We needed crowd control barriers in [location] for a parade. The barriers were solid and helped keep everything organized. Great service!"
+  },
+  {
+    "Review": "Ordered chain link fence panels for our commercial space in [location]. They were sturdy and installed quickly. The best fencing solution we’ve used!"
+  },
+  {
+    "Review": "Our privacy fence rental in [location] worked perfectly for our backyard event. It provided security while keeping things private."
+  },
+  {
+    "Review": "We needed security fencing for our business in [location]. The fences were durable, and the installation team was very professional."
+  },
+  {
+    "Review": "A security issue required an emergency fence rental in [location], and they delivered within hours. Quick, reliable, and professional service!"
+  },
+  {
+    "Review": "Our city festival in [location] needed barricade rentals, and these were perfect. Strong, well-placed, and helped with crowd management."
+  },
+  {
+    "Review": "Needed long-term fencing for a warehouse project in [location]. The quality was top-notch, and their pricing was competitive."
+  },
+  {
+    "Review": "Having both dumpster rental and temporary fencing in [location] from the same company saved us time and money. Excellent service!"
+  },
+  {
+    "Review": "For our construction project in [location], we got both porta potty rental and fencing. Everything was delivered on time and in great condition."
+  },
+  {
+    "Review": "We used their privacy fence rental for our wedding in [location]. It created an intimate setting and kept the area secure."
+  },
+  {
+    "Review": "Needed temporary fencing for a marathon in [location]. Their setup was sturdy, and it helped manage the event smoothly."
+  },
+  {
+    "Review": "Installed temporary fencing for our pool renovation in [location]. It kept the area safe and met all regulations. Great service!"
+  },
+  {
+    "Review": "Our construction fence rental in [location] helped us keep equipment safe. The fence was strong, and the service was excellent!"
+  },
+  {
+    "Review": "We used their crowd control barriers for a concert in [location]. The fences were easy to set up and kept the crowd organized."
+  },
+  {
+    "Review": "Needed security fencing for a commercial renovation in [location]. Their team installed it quickly and professionally."
+  },
+  {
+    "Review": "Used their barricade rentals for a road race in [location]. Everything was delivered on time and worked perfectly."
+  },
+  {
+    "Review": "Our chain link fence panels for a short-term project in [location] were high-quality and easy to install."
+  },
+  {
+    "Review": "A last-minute security issue required emergency fencing in [location], and they delivered within hours. Highly recommend!"
+  },
+  {
+    "Review": "Needed a long-term fence rental for our business in [location]. The fences were durable and required no maintenance."
+  },
+  {
+    "Review": "We got temporary fencing for a warehouse project in [location]. Excellent service, quick setup, and great pricing!"
+  },
+  {
+    "Review": "We needed privacy fencing in [location] during our home renovation. It worked perfectly and kept everything secure."
+  },
+  {
+    "Review": "Our security fence rental helped keep trespassers out of our site in [location]. Solid build and quick installation."
+  },
+  {
+    "Review": "Their event fence rental in [location] was perfect for our festival. The fences were stable and looked professional."
+  },
+  {
+    "Review": "Used their barricade rentals for a protest in [location]. They provided a strong barrier and helped with crowd management."
+  },
+  {
+    "Review": "Rented a dumpster and temporary fencing in [location] for a construction site. Convenient, affordable, and reliable!"
+  },
+  {
+    "Review": "Needed both porta potties and temporary fencing for an event in [location]. Their service was seamless!"
+  },
+  {
+    "Review": "A security breach led us to rent an emergency fence in [location]. They responded quickly and installed it within hours."
+  },
+  {
+    "Review": "We used their construction fencing in [location] to secure a work site. The fences were sturdy and well-installed."
+  },
+  {
+    "Review": "Rented crowd control barriers in [location] for a parade. The setup was quick, and the barriers did their job well."
+  },
+  {
+    "Review": "Their chain link fence panels in [location] were perfect for our industrial site. Strong, reliable, and easy to set up."
+  },
+  {
+    "Review": "Needed long-term fencing for our business in [location]. The quality and durability exceeded expectations."
+  },
+  {
+    "Review": "We rented temporary fencing for a home remodel in [location]. The setup was quick, and the fencing looked great."
+  },
+  {
+    "Review": "Their security fencing in [location] helped us keep an event site safe. Easy to install and very durable."
+  },
+  {
+    "Review": "Ordered temporary fencing in [location], and they delivered the next day. The process was easy and stress-free!"
+  },
+  {
+    "Review": "Their construction fence rental in [location] was great for keeping our project site safe and organized."
+  },
+  {
+    "Review": "Rented privacy fencing in [location] for an outdoor VIP event. It worked perfectly and added a professional touch."
+  },
+  {
+    "Review": "Their temporary fencing in [location] was budget-friendly and strong. Excellent choice for short-term needs!"
+  },
+  {
+    "Review": "We’ve used their event fence rental, security fences, and barricades in [location]. Always reliable and professional!"
+  }
+]
 }
