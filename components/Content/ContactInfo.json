@@ -8,5 +8,11 @@
   "address": "19125 N Creek Pkwy S # 120, Bothell, WA 98011, United States",
   "service": "Fence Rental Services",
   "location": "Bothell, WA",
-  "zipCode": "98011"
+  "zipCode": "98011",
+  "bannerImage": "https://ik.imagekit.io/serviceproviders/accfencingco.com/banner.jpg",
+  "logoImage": "https://ik.imagekit.io/serviceproviders/accfencingco.com/logo.png",
+  "favicon": "",
+  "googleAnalytics": "",
+  "main": "#3d8912",
+  "minor": "#26550b"
 }

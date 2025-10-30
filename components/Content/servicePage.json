@@ -4,6 +4,145 @@
       "bannerQuote": "",
       "bannerImage": "banner.jpg",
       "h1Banner": "Reliable Fence Rentals Services for Jobsites & Events in Bothell, WA",
-      "p1Banner":"",
-      "serviceTitle":""
+      "p1Banner": "",
+      "serviceTitle": "",
+  "serviceData": {
+  "title": "Smart Fencing & Site Solutions That Work for You",
+  "p": "From small backyard projects to large construction sites, we provide reliable fencing and site service rentals tailored to your needs. Our goal is to make setup simple, secure, and stress-free—delivered on time and installed with care.",
+  "lists": [
+    {
+      "title": "Temporary Fence Rental in [location]",
+      "description": "Call us at (425) 285-8440. Rent temporary fencing for quick and easy perimeter setup at sites in [location], ideal for short-term use.",
+      "h2": "Temporary Fence Rental Services for Events",
+      "p2": "We offer reliable temporary fence rentals in [location] for construction sites, events, or any area needing quick and secure perimeter setup.",
+      "h3": "Flexible Fencing for Short-Term Use",
+      "p3": "Our temporary fences are quick to install, durable against the elements, and easy to remove when your project wraps up. Whether for a single-day event or a month-long renovation, we handle delivery and setup so you can focus on the job.",
+      "seoContent": "<h2>Temporary Fence Rental in [location]</h2><p>Choose our temporary fence rentals in [location] for secure, short-term boundaries around your job site or event. With quick delivery and professional installation, we make it easy to keep your property safe and compliant. Call us at (425) 285-8440 to book today.</p>",
+      "slug": "temporary-fence-rental",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/hole-broken-pipeline-filled-water-limited.jpg?updatedAt=1744015115567"
+    },
+    {
+      "title": "Construction Fence Rental in [location]",
+      "description": "Call us at (425) 285-8440. Durable construction fencing solutions for secure, compliant job sites in [location].",
+      "h2": "Temporary Construction Fence Rental Services",
+      "p2": "Our construction fence rental services in [location] provide strong and stable fencing to ensure site safety and meet local compliance standards.",
+      "h3": "Built Tough for Every Job Site",
+      "p3": "Keep your crew and materials protected with durable, weather-tested fencing. We offer various heights and configurations to fit your layout, and our team ensures fast installation so your project can start without delays.",
+      "seoContent": "<h2>Construction Fence Rental in [location]</h2><p>Secure your construction zone with dependable fencing solutions in [location]. Our heavy-duty panels meet safety codes and prevent unauthorized access while keeping your site organized and professional. Call us at (425) 285-8440 to get a quote today.</p>",
+      "slug": "construction-fence-rental",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/construction-sites-portable-fence-parts-that.jpg?updatedAt=1744015122508"
+    },
+    {
+      "title": "Event Fence Rental in [location]",
+      "description": "Call us at (425) 285-8440. Stylish and safe event fencing for concerts, festivals, and private events in [location].",
+      "h2": "Secure Your Event with Our Fencing",
+      "p2": "From weddings to festivals, our event fence rental in [location] ensures your venue stays organized, secure, and professional-looking.",
+      "h3": "Perfect for Every Type of Gathering",
+      "p3": "Our fences blend safety and style—keeping guests, vendors, and restricted zones properly separated. We help you plan the layout and manage quick setup before showtime.",
+      "seoContent": "<h2>Event Fence Rental in [location]</h2><p>Our event fence rentals in [location] make crowd control simple and professional. Whether for concerts, trade fairs, or community gatherings, we offer clean, uniform fencing that enhances both security and appearance. Call (425) 285-8440 to reserve your setup today.</p>",
+      "slug": "event-fence-rental",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/security-hand-fastens-red-tape-closing.jpg?updatedAt=1744015116191"
+    },
+    {
+      "title": "Crowd Control Barriers in [location]",
+      "description": "Call us at (425) 285-8440. Manage foot traffic effectively with strong crowd control barriers in [location].",
+      "h2": "Effective Solutions for Managing Large Crowds",
+      "p2": "Our crowd control barriers in [location] are ideal for managing large gatherings and directing foot traffic with ease and safety.",
+      "h3": "Safety and Flow Made Simple",
+      "p3": "Built from durable steel and designed for quick placement, our barriers help maintain order at public events, parades, and work zones—keeping people safe and movement smooth.",
+      "seoContent": "<h2>Crowd Control Barriers in [location]</h2><p>Our crowd control barrier rentals in [location] provide dependable organization for busy areas. Ideal for sporting events, festivals, and construction zones, they’re easy to set up and built for stability. Call (425) 285-8440 to discuss your layout and delivery options.</p>",
+      "slug": "crowd-control-barriers",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/temporary-fencing-security-mass-event-large.jpg?updatedAt=1744015118576"
+    },
+    {
+      "title": "Chain Link Fence Panels in [location]",
+      "description": "Call us at (425) 285-8440. Secure chain link fence panels available for rent in [location], great for any site size.",
+      "h2": "Durable and Versatile Chain Link Fencing",
+      "p2": "Chain link fence panels in [location] provide flexible, scalable security for construction zones, events, or private property needs.",
+      "h3": "Built to Last, Easy to Configure",
+      "p3": "Our chain link panels resist rust and withstand wind and impact. They’re perfect for temporary use without compromising on strength or appearance.",
+      "seoContent": "<h2>Chain Link Fence Panels in [location]</h2><p>We provide high-quality chain link fence rentals in [location] that adapt to any project size. Quick installation and a clean finish make them ideal for construction, events, or storage protection. Call (425) 285-8440 for availability and delivery times.</p>",
+      "slug": "chain-link-fence-panels",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/close-on-midsection-unknown-man-holding.jpg?updatedAt=1744015121470"
+    },
+    {
+      "title": "Privacy Fence Rental in [location]",
+      "description": "Call us at (425) 285-8440. Maintain privacy at your job site or event with high-quality fencing options in [location].",
+      "h2": "Secure Your Space with Privacy Fencing",
+      "p2": "Protect your site or event space in [location] from prying eyes with our sturdy and easy-to-install privacy fencing.",
+      "h3": "Ideal for Jobs That Need Discretion",
+      "p3": "Our privacy screens reduce visibility, block dust, and improve the overall appearance of your site. Choose from multiple heights and colors to match your project needs.",
+      "seoContent": "<h2>Privacy Fence Rental in [location]</h2><p>Our privacy fencing in [location] adds professionalism and security to any job site or event. With durable mesh and wind-resistant panels, it’s the perfect blend of function and style. Call (425) 285-8440 for a quick quote today.</p>",
+      "slug": "privacy-fence-rental",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/fence-built-wood-outdoor-landscape-security.jpg?updatedAt=1744015122949"
+    },
+    {
+      "title": "Security Fence Rental in [location]",
+      "description": "Call us at (425) 285-8440. Get high-security fencing for sensitive areas and asset protection in [location].",
+      "h2": "Temporary Security Fence Rental Services",
+      "p2": "Our security fence rental in [location] includes heavy-duty materials and installation for protecting assets, personnel, and restricted zones.",
+      "h3": "High-Strength Fencing for Maximum Safety",
+      "p3": "Perfect for warehouses, logistics yards, or special events requiring controlled access. We use reinforced materials and tamper-resistant fittings to ensure strong protection.",
+      "seoContent": "<h2>Security Fence Rental in [location]</h2><p>Our security fence rentals in [location] offer unmatched durability for safeguarding valuable assets. Designed for industrial, commercial, and emergency use, they deliver peace of mind and compliance. Call (425) 285-8440 to schedule delivery.</p>",
+      "slug": "security-fence-rental",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/security-fencing-residential-neighborhood.jpg?updatedAt=1744015264900"
+    },
+    {
+      "title": "Emergency Fence Rental in [location]",
+      "description": "Call us at (425) 285-8440. Fast emergency fence rentals in [location] for disasters, accidents, and urgent needs.",
+      "h2": "Urgent Temporary Fence Rental Services Available",
+      "p2": "Respond fast with our emergency fence rentals in [location]—perfect for securing accident sites, fire zones, or sudden hazards.",
+      "h3": "Fast Response When It Matters Most",
+      "p3": "We understand emergencies can’t wait. Our team provides same-day delivery and installation to help contain hazards and ensure safety on site.",
+      "seoContent": "<h2>Emergency Fence Rental in [location]</h2><p>For rapid containment and safety, rely on our emergency fencing in [location]. We mobilize quickly to help secure disaster or accident zones, protecting people and property. Call (425) 285-8440 anytime for urgent service.</p>",
+      "slug": "emergency-fence-rental",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/plastic-portable-barrier-fencing-hazardous-areas.jpg?updatedAt=1744015115428"
+    },
+    {
+      "title": "Barricade Rentals in [location]",
+      "description": "Call us at (425) 285-8440. Rent durable barricades for traffic redirection and pedestrian control in [location].",
+      "h2": "Top-quality Barricade Rentals for Events",
+      "p2": "Barricade rentals in [location] help direct vehicles and pedestrians with ease during events, roadwork, or emergencies.",
+      "h3": "Versatile Barricades for Every Situation",
+      "p3": "From crowd control to traffic safety, our barricades are sturdy, visible, and easy to transport. Perfect for concerts, parades, or municipal projects.",
+      "seoContent": "<h2>Barricade Rentals in [location]</h2><p>Keep your event or site organized with our barricade rentals in [location]. Designed for visibility and stability, they’re perfect for managing traffic or pedestrian movement safely. Call (425) 285-8440 to request your setup.</p>",
+      "slug": "barricade-rentals",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/road-barrier-pedestrian-prohibition-sign.jpg?updatedAt=1744015115644"
+    },
+    {
+      "title": "Long-Term Fence Rentals in [location]",
+      "description": "Call us at (425) 285-8440. Affordable long-term fence rental options for extended projects in [location].",
+      "h2": "Secure Your Property with Long-Term Fencing",
+      "p2": "For projects lasting months, our long-term fence rental options in [location] provide stable, weather-resistant, and affordable solutions.",
+      "h3": "Designed for Endurance and Peace of Mind",
+      "p3": "Our long-term fencing withstands the elements while maintaining its strength and structure. Ideal for construction sites, storage yards, and seasonal enclosures.",
+      "seoContent": "<h2>Long-Term Fence Rentals in [location]</h2><p>Get dependable long-term fencing in [location] built to last. We offer cost-effective rates and scheduled maintenance to keep your perimeter secure throughout the project. Call (425) 285-8440 to discuss your duration and setup needs.</p>",
+      "slug": "long-term-fence-rentals",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/terrace-fencing-railings-metal-pipes-filled.jpg?updatedAt=1744015120718"
+    },
+    {
+      "title": "Dumpster Rental Services in [location]",
+      "description": "Call us at (425) 285-8440. Reliable dumpster rental services in [location] for construction, renovation, and cleanup needs.",
+      "h2": "Convenient and Reliable Dumpster Rentals Near You",
+      "p2": "We offer dependable dumpster rental services in [location] for handling construction debris, residential cleanouts, and commercial waste.",
+      "h3": "Clean Up Without the Hassle",
+      "p3": "Choose from multiple dumpster sizes and flexible pickup schedules. Whether it’s a small renovation or a large commercial job, we make waste removal simple and quick.",
+      "seoContent": "<h2>Dumpster Rental Services in [location]</h2><p>Need fast and affordable dumpster rentals in [location]? We deliver sturdy bins for any cleanup project—construction, renovation, or moving. Call (425) 285-8440 to schedule your delivery today.</p>",
+      "slug": "dumpster-rental-services",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/plastic-bins-recycle-center.jpg?updatedAt=1744015113440"
+    },
+    {
+      "title": "Porta Potty Rental Services in [location]",
+      "description": "Call us at (425) 285-8440. Clean, efficient porta potty rental services available for any event or job site in [location].",
+      "h2": "Convenient and Reliable Porta Potty Rentals",
+      "p2": "Our porta potty rental services in [location] deliver clean, hygienic, and accessible restrooms for all outdoor events and job sites.",
+      "h3": "Comfort and Cleanliness You Can Count On",
+      "p3": "Each unit is sanitized, well-maintained, and stocked with essentials. From large festivals to small construction sites, we keep facilities fresh and functional.",
+      "seoContent": "<h2>Porta Potty Rental Services in [location]</h2><p>We provide dependable porta potty rentals in [location] with on-time delivery and routine servicing. Keep your guests or workers comfortable with our modern, odor-controlled units. Call (425) 285-8440 to book your portable restroom today.</p>",
+      "slug": "porta-potty-rental-services",
+      "imageUrl": "https://ik.imagekit.io/serviceproviders/accfencingco.com/portable-toilets-on-salt-flats.jpg?updatedAt=1744015115108"
+    }
+  ]
+}
+
 }
